@@ -1,0 +1,18 @@
+{
+  "name": "webdevtermproject",
+  "version": "1.0.0",
+  "description": "weather app",
+  "main": "index.js",
+  "scripts": {
+    "test": " "
+  },
+  "author": "bharat",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "requests": "^0.3.0"
+  }
+}
